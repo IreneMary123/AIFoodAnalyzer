@@ -54,11 +54,11 @@ python app.py
 Project Documentation
 For Software:
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1798" height="841" alt="foodai_1" src="https://github.com/user-attachments/assets/c2ccfd06-1ab2-4492-b577-2126ffb0cf8e" />
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+<img width="1032" height="852" alt="foodai_2" src="https://github.com/user-attachments/assets/1655d949-117c-4c47-a509-bf822e26856b" />
+
 
 Diagrams
 System Architecture:
